@@ -26,16 +26,15 @@
 <hr>
 
 ```
-Me
+Me llamo samuel
 -------------------------
 💻 hola soy un apasionado del desarrollo y el diseño en constante aprendizaje.
 📚 Explorando el mundo de la programación y la creación de contenido, combinando creatividad y código.
-📝 Me interesa el desarrollo de software, la inteligencia artificial y el diseño web
+📝 Me interesa el desarrollo de software, la inteligencia artificial y el diseño web y desarrollar juegos
 🔭 Actualmente aprendiendo más sobre HTML5 y Css y entre mas lenguajes
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Mis lenguajes principales: HTML5, CSS
 🚩 Buscando mejorar cada día y crear proyectos épicos.
-💖 Me llega los errores y bug es como querer
+💖 Me llega los errores y bug 
 🎵 Disfruto la música todo tipo antiguas nuevas mientras estudio progama y juego 
 ```
 <hr>
